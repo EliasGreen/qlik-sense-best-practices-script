@@ -1,0 +1,1 @@
+# qlik-sense-best-practices-script
